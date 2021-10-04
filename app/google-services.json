@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "765035370883",
+    "project_id": "taameer-business-booking-app",
+    "storage_bucket": "taameer-business-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765035370883:android:7279d6b234756526783eb6",
+        "android_client_info": {
+          "package_name": "com.beetleware.ugt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765035370883-ptg7hpag7fe845i2lpvmshevcj8v4os7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beetleware.ugt",
+            "certificate_hash": "e1810313fc776413bc4444051f8f1d34daef13bf"
+          }
+        },
+        {
+          "client_id": "765035370883-g9hm2aogbvehonjkt2vkbsm4otjafii3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-nY0Wu9boyule7bWZRqTwNTbpzQuNzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765035370883-g9hm2aogbvehonjkt2vkbsm4otjafii3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

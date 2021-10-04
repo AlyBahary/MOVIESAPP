@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="msg_error_connection">Connection Error</string>
+    <string name="msg_server_error">Server error… please try again</string>
+    <string name="no_internet">Please, Check your internet connection and try again</string>
+    <string name="this_field_is_required">This field is required</string>
+</resources>
