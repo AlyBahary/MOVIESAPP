@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">UGT</string>
     <string name="msg_error_connection">Connection Error</string>
     <string name="msg_server_error">Server error… please try again</string>
     <string name="no_internet">Please, Check your internet connection and try again</string>
