@@ -2,8 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="primaryGreen">#F44336</color>
-    <color name="transparentDarkBlue">#6FFFFFFF</color>
+    <color name="primaryColor">#F44336</color>
+    <color name="transparentDarkPrimary">#5B870000</color>
     <color name="lightBlack">#3F4843</color>
     <color name="transparentbg">#00FFFFFF</color>
 

@@ -4,8 +4,8 @@
 
         <item name="fontFamily">@font/almarai_regular</item>
         <item name="background">@color/white</item>
-        <item name="colorPrimary">@color/primaryGreen</item>
-        <item name="colorPrimaryDark">@color/primaryGreen</item>
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColor</item>
         <item name="backgroundColor">@color/white</item>
         <item name="android:ambientShadowAlpha">0.09</item>
         <item name="android:spotShadowAlpha">0.09</item>
@@ -15,6 +15,7 @@
         <item name="android:windowEnterAnimation">@anim/slide_up</item>
         <item name="android:windowExitAnimation">@anim/slide_down</item>
     </style>
+    <!--    for card view light elevation-->
     <style name="test" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:ambientShadowAlpha">0.09</item>
         <item name="android:spotShadowAlpha">0.09</item>
