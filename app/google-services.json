@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:765035370883:android:7279d6b234756526783eb6",
         "android_client_info": {
-          "package_name": "com.beetleware.ugt"
+          "package_name": "com.imdb.movies"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "765035370883-ptg7hpag7fe845i2lpvmshevcj8v4os7.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.beetleware.ugt",
+            "package_name": "com.imdb.movies",
             "certificate_hash": "e1810313fc776413bc4444051f8f1d34daef13bf"
           }
         },
